@@ -13,6 +13,7 @@ class ExceptionModel extends Model
         'DELETE'    => 'red',
         'PATCH'     => 'black',
         'OPTIONS'   => 'grey',
+        'HEAD'      => 'grey',
     ];
 
     /**
